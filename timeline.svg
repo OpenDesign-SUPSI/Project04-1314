@@ -2,11 +2,11 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1408.82px" height="595.28px" viewBox="0 0 1408.82 595.28" enable-background="new 0 0 1408.82 595.28"
+	 width="1408.82px" height="595.281px" viewBox="0 0 1408.82 595.281" enable-background="new 0 0 1408.82 595.281"
 	 xml:space="preserve">
 <rect x="120.374" y="202.331" fill="#FFFFFF" width="203.152" height="134.364"/>
 <rect x="120.374" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.152" height="134.364"/>
-<text transform="matrix(1 0 0 1 124.106 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">Research</text>
+<text transform="matrix(1 0 0 1 124.106 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">Research</text>
 <rect x="120.268" y="228.812" fill="#040506" width="203.364" height="21.426"/>
 <rect x="120.268" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.364" height="21.426"/>
 <rect x="120.268" y="250.719" fill="#FFFFFF" width="203.364" height="21.427"/>
@@ -15,20 +15,28 @@
 <rect x="120.268" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.364" height="21.427"/>
 <rect x="120.268" y="294.533" fill="#FFFFFF" width="203.364" height="21.427"/>
 <rect x="120.268" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.364" height="21.427"/>
-<rect x="120.268" y="316.44" fill="#FFFFFF" width="203.364" height="21.427"/>
-<rect x="120.268" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.364" height="21.427"/>
-<text transform="matrix(1 0 0 1 62.8735 241.3096)"><tspan x="0" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">No partic</tspan><tspan x="29.854" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">i</tspan><tspan x="31.526" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">pation</tspan></text>
-<text transform="matrix(1 0 0 1 73.729 258.5537)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">Indirect </text>
-<text transform="matrix(1 0 0 1 73.729 267.8794)"><tspan x="0" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">partici</tspan><tspan x="19.901" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">p</tspan><tspan x="24.065" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">ation</tspan></text>
-<text transform="matrix(1 0 0 1 73.729 280.5283)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">Consultative</text>
-<text transform="matrix(1 0 0 1 73.729 289.854)"><tspan x="0" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">partici</tspan><tspan x="19.901" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">p</tspan><tspan x="24.065" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">ation</tspan></text>
-<text transform="matrix(1 0 0 1 91.8687 303.2227)"><tspan x="0" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">Sha</tspan><tspan x="13.275" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">r</tspan><tspan x="15.774" y="0" fill="#010202" font-family="'ArialMT'" font-size="7.4607">ed</tspan></text>
-<text transform="matrix(1 0 0 1 91.8687 312.5488)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">control</text>
-<text transform="matrix(1 0 0 1 91.877 325.1299)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">Full</text>
-<text transform="matrix(1 0 0 1 91.877 334.4561)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">control</text>
+<rect x="120.268" y="316.441" fill="#FFFFFF" width="203.364" height="21.426"/>
+<rect x="120.268" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.364" height="21.426"/>
+<text transform="matrix(1 0 0 1 62.8735 241.3091)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">No partic</text>
+<text transform="matrix(1 0 0 1 92.7275 241.3091)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">i</text>
+<text transform="matrix(1 0 0 1 94.3994 241.3091)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">pation</text>
+<text transform="matrix(1 0 0 1 73.729 258.5532)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">Indirect </text>
+<text transform="matrix(1 0 0 1 73.729 267.8784)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">partici</text>
+<text transform="matrix(1 0 0 1 93.6299 267.8784)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">p</text>
+<text transform="matrix(1 0 0 1 97.7939 267.8784)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">ation</text>
+<text transform="matrix(1 0 0 1 73.729 280.5278)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">Consultative</text>
+<text transform="matrix(1 0 0 1 73.729 289.853)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">partici</text>
+<text transform="matrix(1 0 0 1 93.6299 289.853)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">p</text>
+<text transform="matrix(1 0 0 1 97.7939 289.853)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">ation</text>
+<text transform="matrix(1 0 0 1 91.8687 303.2222)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">Sha</text>
+<text transform="matrix(1 0 0 1 105.1436 303.2222)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">r</text>
+<text transform="matrix(1 0 0 1 107.6426 303.2222)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">ed</text>
+<text transform="matrix(1 0 0 1 91.8687 312.5483)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">control</text>
+<text transform="matrix(1 0 0 1 91.877 325.1294)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">Full</text>
+<text transform="matrix(1 0 0 1 91.877 334.4556)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">control</text>
 <rect x="324.219" y="202.331" fill="#FFFFFF" width="203.151" height="134.364"/>
 <rect x="324.219" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.151" height="134.364"/>
-<text transform="matrix(1 0 0 1 327.9502 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">Getting the idea</text>
+<text transform="matrix(1 0 0 1 327.9502 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">Getting the idea</text>
 <rect x="324.113" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.426"/>
 <rect x="324.113" y="250.719" fill="#010202" width="203.363" height="21.427"/>
 <rect x="324.113" y="250.719" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.427"/>
@@ -36,12 +44,12 @@
 <rect x="324.113" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.427"/>
 <rect x="324.113" y="294.533" fill="#FFFFFF" width="203.363" height="21.427"/>
 <rect x="324.113" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.427"/>
-<rect x="324.113" y="316.44" fill="#FFFFFF" width="203.363" height="21.427"/>
-<rect x="324.113" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.427"/>
-<text transform="matrix(1 0 0 1 56.4038 377.7725)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">01- brainstorming</text>
+<rect x="324.113" y="316.441" fill="#FFFFFF" width="203.363" height="21.426"/>
+<rect x="324.113" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.363" height="21.426"/>
+<text transform="matrix(1 0 0 1 56.4038 377.772)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">01- brainstorming</text>
 <rect x="527.887" y="202.331" fill="#FFFFFF" width="203.167" height="134.364"/>
 <rect x="527.887" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.167" height="134.364"/>
-<text transform="matrix(1 0 0 1 531.624 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">Graphic Design</text>
+<text transform="matrix(1 0 0 1 531.624 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">Graphic Design</text>
 <rect x="527.781" y="228.812" fill="#FFFFFF" width="203.379" height="21.426"/>
 <rect x="527.781" y="228.812" fill="#010202" width="203.379" height="21.426"/>
 <rect x="527.781" y="250.719" fill="#FFFFFF" width="203.379" height="21.427"/>
@@ -50,11 +58,11 @@
 <rect x="527.781" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
 <rect x="527.781" y="294.533" fill="#FFFFFF" width="203.379" height="21.427"/>
 <rect x="527.781" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
-<rect x="527.781" y="316.44" fill="#FFFFFF" width="203.379" height="21.427"/>
-<rect x="527.781" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
+<rect x="527.781" y="316.441" fill="#FFFFFF" width="203.379" height="21.426"/>
+<rect x="527.781" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.426"/>
 <rect x="731.569" y="202.331" fill="#FFFFFF" width="203.167" height="134.364"/>
 <rect x="731.569" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.167" height="134.364"/>
-<text transform="matrix(1 0 0 1 735.2969 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">Interface Design</text>
+<text transform="matrix(1 0 0 1 735.2969 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">Interface Design</text>
 <rect x="731.464" y="228.812" fill="#010202" width="203.378" height="21.426"/>
 <rect x="731.464" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.426"/>
 <rect x="731.464" y="250.719" fill="#FFFFFF" width="203.378" height="21.427"/>
@@ -63,91 +71,91 @@
 <rect x="731.464" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
 <rect x="731.464" y="294.533" fill="#FFFFFF" width="203.378" height="21.427"/>
 <rect x="731.464" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="731.464" y="316.44" fill="#FFFFFF" width="203.378" height="21.427"/>
-<rect x="731.464" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
+<rect x="731.464" y="316.441" fill="#FFFFFF" width="203.378" height="21.426"/>
+<rect x="731.464" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.426"/>
 <rect x="934.65" y="202.331" fill="#FFFFFF" width="203.166" height="134.364"/>
 <rect x="934.65" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.166" height="134.364"/>
-<text transform="matrix(1 0 0 1 938.3701 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">UX Design</text>
+<text transform="matrix(1 0 0 1 938.3701 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">UX Design</text>
 <rect x="934.545" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.426"/>
 <rect x="934.545" y="250.719" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
 <rect x="934.545" y="272.626" width="203.378" height="21.427"/>
 <rect x="934.545" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
 <rect x="934.545" y="294.533" fill="#FFFFFF" width="203.378" height="21.427"/>
 <rect x="934.545" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="934.545" y="316.44" fill="#FFFFFF" width="203.378" height="21.427"/>
-<rect x="934.545" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
+<rect x="934.545" y="316.441" fill="#FFFFFF" width="203.378" height="21.426"/>
+<rect x="934.545" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.426"/>
 <rect x="1139.462" y="202.331" fill="#FFFFFF" width="203.166" height="134.364"/>
 <rect x="1139.462" y="202.331" fill="none" stroke="#010202" stroke-width="0.3496" stroke-linejoin="round" width="203.166" height="134.364"/>
-<text transform="matrix(1 0 0 1 1143.1729 216.4297)" fill="#010202" font-family="'ArialMT'" font-size="13.5649">Promoton</text>
-<rect x="1139.356" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.426"/>
-<rect x="1139.356" y="250.719" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="1139.356" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="1139.356" y="294.533" fill="#010202" width="203.378" height="21.427"/>
-<rect x="1139.356" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="1139.356" y="316.44" fill="#FFFFFF" width="203.378" height="21.427"/>
-<rect x="1139.356" y="316.44" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.378" height="21.427"/>
-<rect x="120.205" y="370.157" fill="#FFFFFF" width="203.427" height="11.663"/>
-<rect x="120.205" y="370.157" fill="#010202" width="203.427" height="11.663"/>
-<rect x="324.113" y="370.157" fill="#FFFFFF" width="203.426" height="11.663"/>
-<rect x="324.113" y="370.157" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.663"/>
-<rect x="527.781" y="370.157" fill="#FFFFFF" width="203.441" height="11.663"/>
-<rect x="527.781" y="370.157" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.441" height="11.663"/>
-<rect x="731.464" y="370.157" fill="#FFFFFF" width="203.44" height="11.663"/>
-<rect x="731.464" y="370.157" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.663"/>
-<rect x="934.545" y="370.157" fill="#FFFFFF" width="203.439" height="11.663"/>
-<rect x="934.545" y="370.157" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.663"/>
-<rect x="1139.356" y="370.157" fill="#FFFFFF" width="203.439" height="11.663"/>
-<rect x="1139.356" y="370.157" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.663"/>
-<rect x="120.205" y="391.518" fill="#FFFFFF" width="203.427" height="11.66"/>
-<rect x="120.205" y="391.518" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-<rect x="324.113" y="391.518" fill="#FFFFFF" width="203.426" height="11.66"/>
-<rect x="324.113" y="391.518" fill="#010202" width="203.426" height="11.66"/>
-<rect x="527.781" y="391.518" fill="#FFFFFF" width="203.441" height="11.66"/>
-<rect x="527.781" y="391.518" fill="#010202" width="203.441" height="11.66"/>
-<rect x="731.464" y="391.518" fill="#FFFFFF" width="203.44" height="11.66"/>
-<rect x="731.464" y="391.518" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
-<rect x="934.545" y="391.518" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="934.545" y="391.518" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="1139.356" y="391.518" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="1139.356" y="391.518" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="120.205" y="412.877" fill="#FFFFFF" width="203.427" height="11.66"/>
-<rect x="120.205" y="412.877" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-<rect x="324.113" y="412.877" fill="#FFFFFF" width="203.426" height="11.66"/>
-<rect x="324.113" y="412.877" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-<rect x="527.781" y="412.877" fill="#FFFFFF" width="203.441" height="11.66"/>
-<rect x="527.781" y="412.877" fill="#010202" width="203.441" height="11.66"/>
-<rect x="731.464" y="412.877" fill="#FFFFFF" width="203.44" height="11.66"/>
-<rect x="731.464" y="412.877" fill="#010202" width="203.44" height="11.66"/>
-<rect x="934.545" y="412.877" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="934.545" y="412.877" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="1139.356" y="412.877" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="1139.356" y="412.877" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="120.205" y="434.237" fill="#FFFFFF" width="203.427" height="11.66"/>
-<rect x="120.205" y="434.237" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-<rect x="324.113" y="434.237" fill="#FFFFFF" width="203.426" height="11.66"/>
-<rect x="324.113" y="434.237" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-<rect x="527.781" y="434.237" fill="#FFFFFF" width="203.441" height="11.66"/>
-<rect x="527.781" y="434.237" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.441" height="11.66"/>
-<rect x="731.464" y="434.237" fill="#FFFFFF" width="203.44" height="11.66"/>
-<rect x="731.464" y="434.237" fill="#010202" width="203.44" height="11.66"/>
-<rect x="934.545" y="434.237" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="934.545" y="434.237" fill="#010202" width="203.439" height="11.66"/>
-<rect x="1139.356" y="434.237" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="1139.356" y="434.237" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="120.205" y="455.598" fill="#FFFFFF" width="203.427" height="11.66"/>
-<rect x="120.205" y="455.598" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-<rect x="324.113" y="455.598" fill="#FFFFFF" width="203.426" height="11.66"/>
-<rect x="324.113" y="455.598" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-<rect x="527.781" y="455.598" fill="#FFFFFF" width="203.441" height="11.66"/>
-<rect x="527.781" y="455.598" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.441" height="11.66"/>
-<rect x="731.464" y="455.598" fill="#FFFFFF" width="203.44" height="11.66"/>
-<rect x="731.464" y="455.598" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
-<rect x="934.545" y="455.598" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="934.545" y="455.598" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-<rect x="1139.356" y="455.598" fill="#FFFFFF" width="203.439" height="11.66"/>
-<rect x="1139.356" y="455.598" fill="#010202" width="203.439" height="11.66"/>
-<text transform="matrix(1 0 0 1 59.3179 399.4414)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">02 - Wireframing</text>
-<text transform="matrix(1 0 0 1 43.5405 421.1094)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">03 - Design &amp; Coding</text>
-<text transform="matrix(1 0 0 1 51.0049 442.7783)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">04 - Coding the UX</text>
-<text transform="matrix(1 0 0 1 12.8525 464.4473)" fill="#010202" font-family="'ArialMT'" font-size="7.4607">05 - Promotion and distribution</text>
+<text transform="matrix(1 0 0 1 1143.1729 216.4292)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="13.5649">Promoton</text>
+<rect x="1139.355" y="228.812" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.426"/>
+<rect x="1139.355" y="250.719" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
+<rect x="1139.355" y="272.626" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
+<rect x="1139.355" y="294.533" fill="#010202" width="203.379" height="21.427"/>
+<rect x="1139.355" y="294.533" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.427"/>
+<rect x="1139.355" y="316.441" fill="#FFFFFF" width="203.379" height="21.426"/>
+<rect x="1139.355" y="316.441" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.379" height="21.426"/>
+<rect x="120.205" y="370.158" fill="#FFFFFF" width="203.427" height="11.662"/>
+<rect x="120.205" y="370.158" fill="#010202" width="203.427" height="11.662"/>
+<rect x="324.113" y="370.158" fill="#FFFFFF" width="203.426" height="11.662"/>
+<rect x="324.113" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.662"/>
+<rect x="527.781" y="370.158" fill="#FFFFFF" width="203.44" height="11.662"/>
+<rect x="527.781" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.662"/>
+<rect x="731.464" y="370.158" fill="#FFFFFF" width="203.44" height="11.662"/>
+<rect x="731.464" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.662"/>
+<rect x="934.545" y="370.158" fill="#FFFFFF" width="203.439" height="11.662"/>
+<rect x="934.545" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.662"/>
+<rect x="1139.355" y="370.158" fill="#FFFFFF" width="203.439" height="11.662"/>
+<rect x="1139.355" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.662"/>
+<rect x="120.205" y="391.517" fill="#FFFFFF" width="203.427" height="11.66"/>
+<rect x="120.205" y="391.517" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
+<rect x="324.113" y="391.517" fill="#FFFFFF" width="203.426" height="11.66"/>
+<rect x="324.113" y="391.517" fill="#010202" width="203.426" height="11.66"/>
+<rect x="527.781" y="391.517" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="527.781" y="391.517" fill="#010202" width="203.44" height="11.66"/>
+<rect x="731.464" y="391.517" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="731.464" y="391.517" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
+<rect x="934.545" y="391.517" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="934.545" y="391.517" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="1139.355" y="391.517" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="1139.355" y="391.517" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="120.205" y="412.876" fill="#FFFFFF" width="203.427" height="11.66"/>
+<rect x="120.205" y="412.876" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
+<rect x="324.113" y="412.876" fill="#FFFFFF" width="203.426" height="11.66"/>
+<rect x="324.113" y="412.876" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
+<rect x="527.781" y="412.876" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="527.781" y="412.876" fill="#010202" width="203.44" height="11.66"/>
+<rect x="731.464" y="412.876" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="731.464" y="412.876" fill="#010202" width="203.44" height="11.66"/>
+<rect x="934.545" y="412.876" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="934.545" y="412.876" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="1139.355" y="412.876" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="1139.355" y="412.876" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="120.205" y="434.238" fill="#FFFFFF" width="203.427" height="11.66"/>
+<rect x="120.205" y="434.238" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
+<rect x="324.113" y="434.238" fill="#FFFFFF" width="203.426" height="11.66"/>
+<rect x="324.113" y="434.238" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
+<rect x="527.781" y="434.238" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="527.781" y="434.238" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
+<rect x="731.464" y="434.238" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="731.464" y="434.238" fill="#010202" width="203.44" height="11.66"/>
+<rect x="934.545" y="434.238" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="934.545" y="434.238" fill="#010202" width="203.439" height="11.66"/>
+<rect x="1139.355" y="434.238" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="1139.355" y="434.238" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="120.205" y="455.597" fill="#FFFFFF" width="203.427" height="11.66"/>
+<rect x="120.205" y="455.597" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
+<rect x="324.113" y="455.597" fill="#FFFFFF" width="203.426" height="11.66"/>
+<rect x="324.113" y="455.597" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
+<rect x="527.781" y="455.597" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="527.781" y="455.597" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
+<rect x="731.464" y="455.597" fill="#FFFFFF" width="203.44" height="11.66"/>
+<rect x="731.464" y="455.597" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
+<rect x="934.545" y="455.597" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="934.545" y="455.597" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+<rect x="1139.355" y="455.597" fill="#FFFFFF" width="203.439" height="11.66"/>
+<rect x="1139.355" y="455.597" fill="#010202" width="203.439" height="11.66"/>
+<text transform="matrix(1 0 0 1 59.3179 399.4409)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">02 - Wireframing</text>
+<text transform="matrix(1 0 0 1 43.5405 421.1089)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">03 - Design &amp; Coding</text>
+<text transform="matrix(1 0 0 1 51.0049 442.7778)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">04 - Coding the UX</text>
+<text transform="matrix(1 0 0 1 12.8525 464.4468)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">05 - Promotion and distribution</text>
 </svg>
