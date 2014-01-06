@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="activity-block.svg"
+   sodipodi:docname="6_Promotion and distribution.svg"
    inkscape:export-filename="../02.analysis_personas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -198,7 +198,7 @@
      units="mm"
      inkscape:window-width="643"
      inkscape:window-height="749"
-     inkscape:window-x="2"
+     inkscape:window-x="285"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -286,7 +286,8 @@
          sodipodi:role="line"
          id="tspan4079"
          x="82.159653"
-         y="152.51514">5 Promotion and distribution</tspan></text>
+         y="152.51514"
+         style="-inkscape-font-specification:Titillium Web Bold;font-family:Titillium Web;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">6 Promotion and distribution</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6245"
@@ -320,26 +321,48 @@
            x="83.868896"
            y="164.44586"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L" /></flowRegion><flowPara
-         id="flowPara3062">(01) Subject:</flowPara><flowPara
-         id="flowPara3064">Federico Lameri - Orly Golan and all of the community</flowPara><flowPara
-         id="flowPara3066" /><flowPara
-         id="flowPara3068">(02) Object:</flowPara><flowPara
-         id="flowPara3070">Apple stor, social networks, websites, digital marketing</flowPara><flowPara
-         id="flowPara3072" /><flowPara
-         id="flowPara3074">(03) Outcome:</flowPara><flowPara
-         id="flowPara3076">Adds, reviews and banner</flowPara><flowPara
-         id="flowPara3078" /><flowPara
-         id="flowPara3080">(04) Mediating Artifacts:</flowPara><flowPara
-         id="flowPara3082">Digital media</flowPara><flowPara
-         id="flowPara3084" /><flowPara
-         id="flowPara3086">(05) Rules:</flowPara><flowPara
-         id="flowPara3088">Creative commons attribution  CC BY</flowPara><flowPara
-         id="flowPara3090" /><flowPara
-         id="flowPara3092">(06) Community:</flowPara><flowPara
-         id="flowPara3094">The community</flowPara><flowPara
-         id="flowPara3096" /><flowPara
-         id="flowPara3098">(07) Roles:</flowPara><flowPara
-         id="flowPara3100">Orly Golan and  Federico Lameri - searcing for sponsers</flowPara><flowPara
-         id="flowPara4334">Community - distribution </flowPara><flowPara
-         id="flowPara3102" /></flowRoot>  </g>
+         id="flowPara3062"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(01) Subject:</flowPara><flowPara
+         id="flowPara3064"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Federico Lameri - Orly Golan and all of the community</flowPara><flowPara
+         id="flowPara3066"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3068"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(02) Object:</flowPara><flowPara
+         id="flowPara3070"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Apple stor, social networks, websites, digital marketing</flowPara><flowPara
+         id="flowPara3072"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3074"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(03) Outcome:</flowPara><flowPara
+         id="flowPara3076"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Adds, reviews and banner</flowPara><flowPara
+         id="flowPara3078"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3080"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(04) Mediating Artifacts:</flowPara><flowPara
+         id="flowPara3082"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Digital media</flowPara><flowPara
+         id="flowPara3084"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3086"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(05) Rules:</flowPara><flowPara
+         id="flowPara3088"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Creative commons attribution  CC BY</flowPara><flowPara
+         id="flowPara3090"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3092"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(06) Community:</flowPara><flowPara
+         id="flowPara3094"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">The community</flowPara><flowPara
+         id="flowPara3096"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><flowPara
+         id="flowPara3098"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">(07) Roles:</flowPara><flowPara
+         id="flowPara3100"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Orly Golan and  Federico Lameri - searcing for sponsers</flowPara><flowPara
+         id="flowPara4334"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Community - distribution </flowPara><flowPara
+         id="flowPara3102"
+         style="-inkscape-font-specification:Titillium Web;font-family:Titillium Web;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRoot>  </g>
 </svg>
