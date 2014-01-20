@@ -110,9 +110,9 @@
 	<rect x="324.113" y="370.158" fill="#FFFFFF" width="203.426" height="11.662"/>
 	
 		<rect x="324.113" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.662"/>
-	<rect x="527.781" y="370.158" fill="#FFFFFF" width="203.439" height="11.662"/>
+	<rect x="527.781" y="370.158" fill="#FFFFFF" width="203.438" height="11.662"/>
 	
-		<rect x="527.781" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.662"/>
+		<rect x="527.781" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.662"/>
 	<rect x="731.464" y="370.158" fill="#FFFFFF" width="203.44" height="11.662"/>
 	
 		<rect x="731.464" y="370.158" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.662"/>
@@ -132,8 +132,8 @@
 		<rect x="120.205" y="400.572" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
 	<rect x="324.113" y="400.572" fill="#FFFFFF" width="203.426" height="11.66"/>
 	<rect x="324.113" y="400.572" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.426" height="11.66"/>
-	<rect x="527.781" y="400.572" fill="#FFFFFF" width="203.439" height="11.66"/>
-	<rect x="527.781" y="400.572" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.439" height="11.66"/>
+	<rect x="527.781" y="400.572" fill="#FFFFFF" width="203.438" height="11.66"/>
+	<rect x="527.781" y="400.572" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.438" height="11.66"/>
 	<rect x="731.464" y="400.572" fill="#FFFFFF" width="203.44" height="11.66"/>
 	
 		<rect x="731.464" y="400.572" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
@@ -149,48 +149,48 @@
 		<rect x="1341.577" y="400.572" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
 </g>
 <g>
-	<rect x="120.205" y="430.984" fill="#FFFFFF" width="203.427" height="11.66"/>
+	<rect x="120.205" y="430.984" fill="#FFFFFF" width="203.427" height="11.659"/>
 	
-		<rect x="120.205" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-	<rect x="324.113" y="430.984" fill="#FFFFFF" width="203.426" height="11.66"/>
+		<rect x="120.205" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.659"/>
+	<rect x="324.113" y="430.984" fill="#FFFFFF" width="203.426" height="11.659"/>
 	
-		<rect x="324.113" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-	<rect x="527.781" y="430.984" fill="#FFFFFF" width="203.439" height="11.66"/>
-	<rect x="527.781" y="430.984" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.439" height="11.66"/>
-	<rect x="731.464" y="430.984" fill="#FFFFFF" width="203.44" height="11.66"/>
-	<rect x="731.464" y="430.984" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.44" height="11.66"/>
-	<rect x="934.545" y="430.984" fill="#FFFFFF" width="203.439" height="11.66"/>
+		<rect x="324.113" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.659"/>
+	<rect x="527.781" y="430.984" fill="#FFFFFF" width="203.438" height="11.659"/>
+	<rect x="527.781" y="430.984" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.438" height="11.659"/>
+	<rect x="731.464" y="430.984" fill="#FFFFFF" width="203.44" height="11.659"/>
+	<rect x="731.464" y="430.984" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.44" height="11.659"/>
+	<rect x="934.545" y="430.984" fill="#FFFFFF" width="203.439" height="11.659"/>
 	
-		<rect x="934.545" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-	<rect x="1138.266" y="430.984" fill="#FFFFFF" width="203.438" height="11.66"/>
+		<rect x="934.545" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.659"/>
+	<rect x="1138.266" y="430.984" fill="#FFFFFF" width="203.438" height="11.659"/>
 	
-		<rect x="1138.266" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
+		<rect x="1138.266" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.659"/>
 	<text transform="matrix(1 0 0 1 43.5405 439.2178)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">03 - Design &amp; Coding</text>
-	<rect x="1341.577" y="430.984" fill="#FFFFFF" width="203.438" height="11.66"/>
+	<rect x="1341.577" y="430.984" fill="#FFFFFF" width="203.438" height="11.659"/>
 	
-		<rect x="1341.577" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
+		<rect x="1341.577" y="430.984" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.659"/>
 </g>
 <g>
-	<rect x="120.205" y="461.396" fill="#FFFFFF" width="203.427" height="11.66"/>
+	<rect x="120.205" y="461.396" fill="#FFFFFF" width="203.427" height="11.659"/>
 	
-		<rect x="120.205" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.66"/>
-	<rect x="324.113" y="461.396" fill="#FFFFFF" width="203.426" height="11.66"/>
+		<rect x="120.205" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.427" height="11.659"/>
+	<rect x="324.113" y="461.396" fill="#FFFFFF" width="203.426" height="11.659"/>
 	
-		<rect x="324.113" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-	<rect x="527.781" y="461.396" fill="#FFFFFF" width="203.439" height="11.66"/>
+		<rect x="324.113" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.659"/>
+	<rect x="527.781" y="461.396" fill="#FFFFFF" width="203.438" height="11.659"/>
 	
-		<rect x="527.781" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
-	<rect x="731.464" y="461.396" fill="#FFFFFF" width="203.44" height="11.66"/>
-	<rect x="731.464" y="461.396" fill="#010202" width="203.44" height="11.66"/>
-	<rect x="934.545" y="461.396" fill="#FFFFFF" width="203.439" height="11.66"/>
-	<rect x="934.545" y="461.396" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.439" height="11.66"/>
-	<rect x="1138.266" y="461.396" fill="#FFFFFF" width="203.438" height="11.66"/>
+		<rect x="527.781" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.659"/>
+	<rect x="731.464" y="461.396" fill="#FFFFFF" width="203.44" height="11.659"/>
+	<rect x="731.464" y="461.396" fill="#010202" width="203.44" height="11.659"/>
+	<rect x="934.545" y="461.396" fill="#FFFFFF" width="203.439" height="11.659"/>
+	<rect x="934.545" y="461.396" fill="#010202" stroke="#010202" stroke-miterlimit="10" width="203.439" height="11.659"/>
+	<rect x="1138.266" y="461.396" fill="#FFFFFF" width="203.438" height="11.659"/>
 	
-		<rect x="1138.266" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
+		<rect x="1138.266" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.659"/>
 	<text transform="matrix(1 0 0 1 51.0049 469.9346)" fill="#010202" font-family="'TitilliumWeb-Regular'" font-size="7.4607">04 - Coding the UX</text>
-	<rect x="1341.577" y="461.396" fill="#FFFFFF" width="203.438" height="11.66"/>
+	<rect x="1341.577" y="461.396" fill="#FFFFFF" width="203.438" height="11.659"/>
 	
-		<rect x="1341.577" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
+		<rect x="1341.577" y="461.396" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.659"/>
 </g>
 <g>
 	<rect x="120.205" y="491.808" fill="#FFFFFF" width="203.427" height="11.66"/>
@@ -199,9 +199,9 @@
 	<rect x="324.113" y="491.808" fill="#FFFFFF" width="203.426" height="11.66"/>
 	
 		<rect x="324.113" y="491.808" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-	<rect x="527.781" y="491.808" fill="#FFFFFF" width="203.439" height="11.66"/>
+	<rect x="527.781" y="491.808" fill="#FFFFFF" width="203.438" height="11.66"/>
 	
-		<rect x="527.781" y="491.808" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+		<rect x="527.781" y="491.808" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
 	<rect x="731.464" y="491.808" fill="#FFFFFF" width="203.44" height="11.66"/>
 	
 		<rect x="731.464" y="491.808" fill="#010202" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
@@ -222,9 +222,9 @@
 	<rect x="324.113" y="522.22" fill="#FFFFFF" width="203.426" height="11.66"/>
 	
 		<rect x="324.113" y="522.22" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.426" height="11.66"/>
-	<rect x="527.781" y="522.22" fill="#FFFFFF" width="203.439" height="11.66"/>
+	<rect x="527.781" y="522.22" fill="#FFFFFF" width="203.438" height="11.66"/>
 	
-		<rect x="527.781" y="522.22" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.439" height="11.66"/>
+		<rect x="527.781" y="522.22" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.438" height="11.66"/>
 	<rect x="731.464" y="522.22" fill="#FFFFFF" width="203.44" height="11.66"/>
 	
 		<rect x="731.464" y="522.22" fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" width="203.44" height="11.66"/>
@@ -331,7 +331,7 @@
 		
 			<line fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" x1="792.913" y1="474.474" x2="792.913" y2="473.057"/>
 		<g>
-			<polygon fill="#010202" points="795.31,518.07 792.913,522.221 790.517,518.07 			"/>
+			<polygon fill="#010202" points="795.311,518.07 792.913,522.221 790.518,518.07 			"/>
 		</g>
 	</g>
 </g>
@@ -344,7 +344,7 @@
 		
 			<line fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" x1="827.579" y1="490.391" x2="827.579" y2="491.808"/>
 		<g>
-			<polygon fill="#010202" points="825.183,446.794 827.579,442.644 829.976,446.794 			"/>
+			<polygon fill="#010202" points="825.183,446.794 827.579,442.644 829.977,446.794 			"/>
 		</g>
 	</g>
 </g>
@@ -357,8 +357,18 @@
 		
 			<line fill="none" stroke="#010202" stroke-width="0.4806" stroke-linejoin="round" x1="849.579" y1="490.391" x2="849.579" y2="491.808"/>
 		<g>
-			<polygon fill="#010202" points="847.183,477.207 849.579,473.057 851.976,477.207 			"/>
+			<polygon fill="#010202" points="847.183,477.207 849.579,473.057 851.977,477.207 			"/>
 		</g>
 	</g>
 </g>
+<rect x="124.106" y="387.391" width="43.349" height="6.25"/>
+<text transform="matrix(1 0 0 1 134.6245 392.9697)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7.0173">Sketches</text>
+<rect x="153.236" y="417.891" width="43.349" height="6.25"/>
+<text transform="matrix(1 0 0 1 163.7544 423.4697)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7.0173">Concepts</text>
+<rect x="324.019" y="417.891" width="43.349" height="6.25"/>
+<text transform="matrix(1 0 0 1 330.9985 423.4697)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7.0173">wireframes</text>
+<rect x="534.799" y="447.167" width="43.349" height="6.25"/>
+<text transform="matrix(1 0 0 1 536.8179 452.7461)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7.0173">frontend files</text>
+<rect x="811.953" y="481.344" width="64.547" height="6.25"/>
+<text transform="matrix(1 0 0 1 826.667 486.9229)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7.0173">feedbacks</text>
 </svg>
